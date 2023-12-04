@@ -33,21 +33,5 @@ with col2:
             - Status : Sudah Di Miliki
             """
         )
-col1, col2, col3, col4, = st.columns(4)
-with col1:
-   
-    st.image("yt.png", width= 50)
-    st.link_button("Youtube Chanel", "http://www.youtube.com/@berkahngabdi2171")
-with col2:
-   
-    st.image("fb.png", width= 50)
-    st.link_button("Facebook", "https://www.facebook.com/jonibrada.olengvsetitik?mibextid=rS40aB7S9Ucbxw6v")
-with col3:
-    
-    st.image("ig.png", width= 50)
-    st.link_button("Instagram", "https://instagram.com/kang_rokhman?igshid=YTQwZjQ0NmI0OA%3D%3D")
-with col4:
-    
-    st.image("x.png", width= 50)
-    st.link_button("tuwitter", "https://twitter.com/faisalrokhman4 ")
+
 st.header("Call Me If You Want")
